@@ -1,0 +1,82 @@
+.footer {
+    padding-top: 89px;
+    background: #FFFBF6;
+}
+
+.footer__nav {
+    max-width: 1072px;
+    width: 100%;
+    display: flex;
+}
+
+.footer__list {
+    max-width: 493px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    // gap: 54px;
+}
+
+.footer__info__text {
+    color: #2B2A28;
+    font-family: "Gilroy";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+.footer__box {
+    max-width: 590px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__link {
+    max-width: 175px;
+    width: 100%;
+    color: #2B2A28;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+}
+
+.footer__link2 {
+    max-width: 139px;
+    width: 100%;
+    color: #2B2A28;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+}
+
+.footer__text {
+    line-height: 35px;
+}
+
+.footer__link3 {
+    max-width: 195px;
+    width: 100%;
+    color: #2B2A28;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+}
+
+
+.footer__flex {
+    max-width: 1210px;
+    width: 100%;
+    display: flex;
+    gap: 59px;
+}
